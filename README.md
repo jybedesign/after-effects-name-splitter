@@ -1,0 +1,1 @@
+# after-effects-name-splitter
